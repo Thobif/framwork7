@@ -1,5 +1,5 @@
 //Object
-$them-colors:(
+$them-color:(
     primary:#005dc2,
     secondary:#b2ffff,
     accent: red,
@@ -11,7 +11,7 @@ $them-colors:(
 
 body {
     background-color:color(primary);
-    color: color( secondary);
+    color: color(secondary);
 
  input{
     color: color(accent);
